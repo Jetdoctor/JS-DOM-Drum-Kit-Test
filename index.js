@@ -95,6 +95,10 @@ function ConstructorFunction (name, age, knownLanguages){
   this.name = name;
   this.age = age;
   this.knownLanguages = languages;
+  this.moveLeft = function() {
+  alert("Just Moved Left"); 
+  console.log("Moved Left 1 Unit");
+  }
   
 }
 
