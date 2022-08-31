@@ -81,6 +81,7 @@ function buttonAnimation(currentKey) {
 }
 
 /*
+
 var objectSyntax = {
 
   name: object,
@@ -88,4 +89,13 @@ var objectSyntax = {
   knownLanguages: ["English", "Japanese", "Vietnamese"]
 
 }
+
+function ConstructorFunction (name, age, knownLanguages){
+
+  this.name = name;
+  this.age = age;
+  this.knownLanguages = languages;
+  
+}
+
 */
