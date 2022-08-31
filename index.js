@@ -79,3 +79,13 @@ function buttonAnimation(currentKey) {
   }, 100);
 
 }
+
+/*
+var objectSyntax = {
+
+  name: object,
+  age: 25,
+  knownLanguages: ["English", "Japanese", "Vietnamese"]
+
+}
+*/
